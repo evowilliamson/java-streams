@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "books.Main",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FuncInterfacesPrimitiveTypes",
+            "request": "launch",
+            "mainClass": "FuncInterfacesPrimitiveTypes",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FunctionalInterfaces",
+            "request": "launch",
+            "mainClass": "FunctionalInterfaces",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tryout",
+            "request": "launch",
+            "mainClass": "Tryout",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodReferences",
+            "request": "launch",
+            "mainClass": "MethodReferences",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaImplementation",
+            "request": "launch",
+            "mainClass": "LambdaImplementation",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaCapture",
+            "request": "launch",
+            "mainClass": "LambdaCapture",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaInterfaces",
+            "request": "launch",
+            "mainClass": "LambdaInterfaces",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lambda1",
+            "request": "launch",
+            "mainClass": "Lambda1",
+            "projectName": "standalone_91874c2b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "standalone_91874c2b"
+        }
+    ]
+}
