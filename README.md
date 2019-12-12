@@ -19,8 +19,8 @@ You will need to install Graphviz on your system in order to render generated **
 It's advisable to create a Python virtual environment for this open-source project, as you don't want other libraries to cause dependency issue in this project. Take a look at this [link](https://docs.python.org/3/library/venv.html#module-venv).
 
 ## Getting the source 
-OK, so get the source of this project:
-* Fork it
+OK, so get the source of this project: Fork the repository and clone it to your system.
+
 ## Running the tests
 Before you start, just make sure that the test cases work! 
 
@@ -29,9 +29,11 @@ Before you start, just make sure that the test cases work!
  * Go to your virtual environment directory and activate it:
 ```source \<venv\>/bin/activate``` (unix and mac) or
 ```\<venv\>\Scripts\activate``` (windows) 
+* In the root of *py-viz-algs* project, run the test cases:
+* ```s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjE4Mjc3Nyw5MTgzNzc0NjQsOTMyOT
-QyNzE4LDEwNjAxNDIzNzksMTY5MTYxNTk2OF19
+eyJoaXN0b3J5IjpbMzgzOTk5ODI2LDkxODM3NzQ2NCw5MzI5ND
+I3MTgsMTA2MDE0MjM3OSwxNjkxNjE1OTY4XX0=
 -->
