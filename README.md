@@ -14,8 +14,8 @@ Then you will have to get pip, check out this [link].(https://pip.pypa.io/en/sta
 ### Graphviz
 You will need to install Graphviz on your system in order to render generated **dot** source code by the Python Graphviz library. Get it [here](https://pypi.org/project/graphviz/).
 
-
+sudo apt-get install python3-setuptools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Mzc3NDY0LDEwNjAxNDIzNzksMTY5MT
-YxNTk2OF19
+eyJoaXN0b3J5IjpbOTMyOTQyNzE4LDkxODM3NzQ2NCwxMDYwMT
+QyMzc5LDE2OTE2MTU5NjhdfQ==
 -->
