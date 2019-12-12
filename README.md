@@ -12,8 +12,10 @@ First of all, if you haven't noticed yet, it's a Python project, so you should g
 Then you will have to get pip, check out this [link].(https://pip.pypa.io/en/stable/installing/)
 
 ### Graphviz
-You will need to install Graphviz on your system in order to render generated dot 
+You will need to install Graphviz on your system in order to render generated **dot** source code by the Python Graphviz library. Get it [here](https://pypi.org/project/graphviz/).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ2ODI1ODgsMTA2MDE0MjM3OSwxNj
-kxNjE1OTY4XX0=
+eyJoaXN0b3J5IjpbOTE4Mzc3NDY0LDEwNjAxNDIzNzksMTY5MT
+YxNTk2OF19
 -->
