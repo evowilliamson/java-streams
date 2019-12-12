@@ -25,15 +25,16 @@ OK, so get the source of this project: Fork the repository and clone it to your 
 Before you start, just make sure that the test cases work! 
 
 ### Activate your virtual environment
-
- * Go to your virtual environment directory and activate it:
+Go to your virtual environment directory and activate it:
 ```source \<venv\>/bin/activate``` (unix and mac) or
 ```\<venv\>\Scripts\activate``` (windows) 
-* In the root of *py-viz-algs* project, run the test cases:
-* ```s
+
+### Run the tests
+In the root of *py-viz-algs* project, run the test cases:
+ ```python setup.py tests```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzOTk5ODI2LDkxODM3NzQ2NCw5MzI5ND
-I3MTgsMTA2MDE0MjM3OSwxNjkxNjE1OTY4XX0=
+eyJoaXN0b3J5IjpbLTIzMDUyNTQyOCw5MTgzNzc0NjQsOTMyOT
+QyNzE4LDEwNjAxNDIzNzksMTY5MTYxNTk2OF19
 -->
