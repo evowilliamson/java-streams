@@ -15,8 +15,8 @@ Then you will have to get pip, check out this [link](https://pip.pypa.io/en/stab
 You will need to install Graphviz on your system in order to render generated **dot** source code by the Python Graphviz library. Get it [here](https://pypi.org/project/graphviz/).
 
 ### Virtual environment
-It's advisable to create a Python virtual environment for this open-source project, as you don't want other projct
+It's advisable to create a Python virtual environment for this open-source project, as you don't want other libraries to cause dependency issue in this project. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAwMjU1NDAsOTE4Mzc3NDY0LDkzMj
-k0MjcxOCwxMDYwMTQyMzc5LDE2OTE2MTU5NjhdfQ==
+eyJoaXN0b3J5IjpbMTAyMTEwODIzNyw5MTgzNzc0NjQsOTMyOT
+QyNzE4LDEwNjAxNDIzNzksMTY5MTYxNTk2OF19
 -->
