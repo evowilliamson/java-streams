@@ -1,14 +1,11 @@
 
-# Visualization of algorithms in Python
+# Contributing
 
-This repository aims to make good visualizations of algorithms which are used in computer science.
+If you feel like contributing to this open-source project, this section contains some useful information to get started.
 
-Just setting up everything.. more to come. 
-
-Checkout the CONTRIBUTING.md and go over the issues or go through the code and come up with some ideas.
-
+First of all, if you haven't noticed yet, it's a Python proje
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY2OTI5MzEsMTY5MTYxNTk2OF19
+eyJoaXN0b3J5IjpbLTk2NjM4Mjk2OSwxNjkxNjE1OTY4XX0=
 -->
