@@ -18,15 +18,20 @@ You will need to install Graphviz on your system in order to render generated **
 ### Virtual environment
 It's advisable to create a Python virtual environment for this open-source project, as you don't want other libraries to cause dependency issue in this project. Take a look at this [link](https://docs.python.org/3/library/venv.html#module-venv).
 
+## Getting the source 
+OK, so get the source of this project:
+* Fork it
 ## Running the tests
 Before you start, just make sure that the test cases work! 
 
 ### Activate your virtual environment
 
  * Go to your virtual environment directory and activate it:
-```source \<venv\>/bin/activate``` (unix) or
-```\<venv\>\Scripts\activate``` (windows)
+```source \<venv\>/bin/activate``` (unix and mac) or
+```\<venv\>\Scripts\activate``` (windows) 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc0NDE3NTIsOTE4Mzc3NDY0LDkzMj
-k0MjcxOCwxMDYwMTQyMzc5LDE2OTE2MTU5NjhdfQ==
+eyJoaXN0b3J5IjpbMjE0NjE4Mjc3Nyw5MTgzNzc0NjQsOTMyOT
+QyNzE4LDEwNjAxNDIzNzksMTY5MTYxNTk2OF19
 -->
