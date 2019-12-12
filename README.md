@@ -24,8 +24,9 @@ Before you start, just make sure that the test cases work!
 ### Activate your virtual environment
 
  * Go to your virtual environment directory and activate it:
-```source \<venv\>/bin/activate``` (unix)
+```source \<venv\>/bin/activate``` (unix) or
+```\<venv\>\Scripts\activate``` (windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMzI4Nzg1LDkxODM3NzQ2NCw5MzI5ND
-I3MTgsMTA2MDE0MjM3OSwxNjkxNjE1OTY4XX0=
+eyJoaXN0b3J5IjpbLTE1MDc0NDE3NTIsOTE4Mzc3NDY0LDkzMj
+k0MjcxOCwxMDYwMTQyMzc5LDE2OTE2MTU5NjhdfQ==
 -->
