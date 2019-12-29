@@ -9,7 +9,10 @@
 | [แม้ว่า](learn-through-songs/%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2.pdf) | เสก โลโซ | 
 | [ลาจากเธอ](learn-through-songs/%E0%B8%A5%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD.pdf) | เสก โลโซ | 
 | [ซมซาน](learn-through-songs/%E0%B8%8B%E0%B8%A1%E0%B8%8B%E0%B8%B2%E0%B8%99.pdf) | เสก โลโซ | 
+| [ซมซาน](learn-through-songs/%E0%B8%8B%E0%B8%A1%E0%B8%8B%E0%B8%B2%E0%B8%99.pdf) | เสก โลโซ | 
 
+
+[ฝนตกที่หน้าต่าง](https://github.com/evowilliamson/natural-language-learning/blob/master/thai/learn-through-songs/%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87.pdf "ฝนตกที่หน้าต่าง.pdf")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MTUyMTA0XX0=
+eyJoaXN0b3J5IjpbLTU4OTQ1NzI2Ml19
 -->
