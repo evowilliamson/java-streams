@@ -13,6 +13,8 @@
 |[แทบขาดใจ](learn-through-songs/%E0%B9%81%E0%B8%97%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%88.pdf "แทบขาดใจ.pdf")|เสก โลโซ|
 |[ไม่คิดนอกใจ](learn-through-songs/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%88.pdf "ไม่คิดนอกใจ.pdf")|เสก โลโซ|
 |[ไม่ต้องห่วงฉัน](learn-through-songs/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99.pdf "ไม่ต้องห่วงฉัน.pdf")|เสก โลโซ|
+[คืนจันทร์](learn-through-songs/%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.pdf "คืนจันทร์.pdf")|เสก โลโซ|
+|[ฉันหรือเธอ](learn-through-songs/%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.pdf "ฉันหรือเธอ.pdf")|เสก โลโซ|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA3MzI0MDZdfQ==
+eyJoaXN0b3J5IjpbMzY5MjAwNDY0XX0=
 -->
