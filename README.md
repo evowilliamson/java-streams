@@ -21,11 +21,7 @@ The following books, scientific articles and other references where used and are
 [Logic in computer science](https://github.com/evowilliamson/model-checking-research/blob/master/resources/Logic%20in%20computer%20science(Personal%20digital%20copy).pdf) | M. Huth & M. Ryan | Book about logic-based verification|
 [Fairness in CTL](https://github.com/evowilliamson/formal-verification/blob/master/resources/Fairness%20in%20CTL.pdf) | JP. Katoen | Presentation of a lecture on fairness in relation to LTL and CTL|
 [Model Checking with Strong Fairness](https://github.com/evowilliamson/formal-verification/blob/master/resources/Model%20Checking%20with%20Strong%20Fairness.pdf) | Y. Kesten et al. | A coherent framework for symbolic model checking of linear-time temporal logic ( LTL ) properties over finite state reactive systems, taking full fairness constraints into consideration|
-[Model Based Testing with Labelled Transition Systems](https://github.com/evowilliamson/formal-verification/blob/master/resources/2006-Tretmans-MBTwithLTS.pdf) |J. Tretmans | Academic paper that describes a model based testing theory where models are expressed as labelled transition systems, and compliance is defined with
-the ‘ioco’ implementation relation. The ioco-testing theory, on the one
- |
-
-
+[Model Based Testing with Labelled Transition Systems](https://github.com/evowilliamson/formal-verification/blob/master/resources/2006-Tretmans-MBTwithLTS.pdf) |J. Tretmans | Academic paper that describes a model based testing theory where models are expressed as labelled transition systems, and compliance is defined with the ‘ioco’ implementation relation |
 
 ### Study notes
 
@@ -65,5 +61,5 @@ AzLDEyMzI0NTYzMjIsLTEzOTgyNzczNzcsMjAwNzIzMDU0Miwt
 MjQ2MTg1ODYwXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMzM2NTAzLDM2OTIwMDQ2NF19
+eyJoaXN0b3J5IjpbODQ2MDk2Mzg4LDM2OTIwMDQ2NF19
 -->
