@@ -44,7 +44,7 @@ I've maintained notes of my study progress for myself and for other people inter
 | 11/6/2019 | Started reading chapter 3 in the textbook [Model Checking](https://github.com/evowilliamson/model-checking-research/blob/master/resources/Model-Checking%20(Personal%20digital%20copy).pdf). Used the [Youtube CTL* video](https://www.youtube.com/watch?v=_2E5Q3CZ7g4&t=1343s) and [Youtube CTL video](https://www.youtube.com/watch?v=Blh060Hgbm8) to get more clarification about CTL and CTL*|
 | 11/6/2019 | Read [Logic in computer science](https://github.com/evowilliamson/model-checking-research/blob/master/resources/Logic%20in%20computer%20science(Personal%20digital%20copy).pdf), paragraph 3.6. Algorithms for model checking are given in this paragraph. Special attention to paragraph 3.6.2 which explains well the concept of fairness|
 | 11/17/2019 | Finished reading [Logic in computer science](https://github.com/evowilliamson/model-checking-research/blob/master/resources/Logic%20in%20computer%20science(Personal%20digital%20copy).pdf), chapter 3 excluding 3.7. |
-| 01/01/2020 | Finished reading [Model Based Testing with Labelled Transition Systems](), until paragraph 3.4, input & outputs |
+| 01/01/2020 | Finished reading [Model Based Testing with Labelled Transition Systems](https://github.com/evowilliamson/formal-verification/blob/master/resources/2006-Tretmans-MBTwithLTS.pdf), until paragraph 3.4, input & outputs |
 
 
 ## Lecture notes
@@ -61,5 +61,5 @@ AzLDEyMzI0NTYzMjIsLTEzOTgyNzczNzcsMjAwNzIzMDU0Miwt
 MjQ2MTg1ODYwXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MDk2Mzg4LDM2OTIwMDQ2NF19
+eyJoaXN0b3J5IjpbLTQ3NjQ0ODk0NSwzNjkyMDA0NjRdfQ==
 -->
